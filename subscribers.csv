@@ -1,0 +1,4 @@
+apt-valuation-app/   ← 이 폴더가 Streamlit에 올라가는 전체 앱 폴더
+├── app.py           ← 지금 사용 중인 Streamlit 메인 파일
+├── subscribers.csv  ← 구독자 이메일 + 만료일 CSV 파일
+├── requirements.txt ← 패키지 목록
